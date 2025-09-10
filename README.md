@@ -5,6 +5,8 @@
 - 🌱 Embedded Systems Learner (C++ / Linux / Raspberry Pi)  
 - 💻 Interested in Device Drivers, IoT, and Computer Vision
 
+<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -27,17 +29,16 @@
   <img src="https://img.shields.io/badge/Makefile-000000.svg?style=for-the-badge&logo=gnu&logoColor=white" />&nbsp
 </div>
 
----
+<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Device%20Tree-000000.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Embedded%20Kernel-333333.svg?style=for-the-badge&logo=linux&logoColor=yellow" />&nbsp
   <img src="https://img.shields.io/badge/Computer%20Vision-FF4500.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Linux%20Master%202급-006600.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
 </div>
 
----
+<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -47,14 +48,14 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
 </div>
 
----
+<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
 
 <h3 align="center">📫 Contact & Blog 📫</h3>
 <div align="center">
   <a href="https://racemus.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-Blog-racemus.tistory.com-2F3C7E?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-Blog-FF5A5F?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:fraisin2935@gmail.com">
-    <img src="https://img.shields.io/badge/fraisin2935@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
