@@ -5,7 +5,7 @@
 - 🌱 Embedded Systems Learner (C++ / Linux / Raspberry Pi)  
 - 💻 Interested in Device Drivers, IoT, and Computer Vision
 
-<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
+<br><br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Makefile-000000.svg?style=for-the-badge&logo=gnu&logoColor=white" />&nbsp
 </div>
 
-<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
+<br><br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-FF4500.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
 </div>
 
-<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
+<br><br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
 </div>
 
-<hr style="height:1px; border:none; background:#ddd; margin:40px 0;" />
+<br><br>
 
 <h3 align="center">📫 Contact & Blog 📫</h3>
 <div align="center">
